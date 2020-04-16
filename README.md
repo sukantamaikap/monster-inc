@@ -1,3 +1,6 @@
+# Monster Inc.
+An experimental static-page react app build for the purpose of learning react. Nothing to look at.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
